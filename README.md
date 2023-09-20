@@ -1,3 +1,3 @@
-- 👋 こんちちは, I’m @kazuma11121125
-- 🌱 僕はpythonをしておるぞ
-- 💞️ discord kazuma1112#1125
+- 👋僕はkazuma1112
+- 🌱 僕はなんかしてます
+- 💞️ discord kazuma1112
