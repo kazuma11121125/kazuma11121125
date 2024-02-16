@@ -11,5 +11,5 @@ DPI-Bot コマンド開発部
 S-Server Developers S-dev Pro  
 むねすかい
 
-![Image](https://github-readme-stats.vercel.app/api?username=akikaki-bot&count_private=true)
-![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=akikaki-bot&layout=compact)
+![Image](https://github-readme-stats.vercel.app/api?username=kazuma11121125&count_private=true)
+![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuma11121125&layout=compact)
