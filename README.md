@@ -13,4 +13,4 @@ S-Server Developers S-dev Pro
 
 ![Image](https://github-readme-stats.vercel.app/api?username=kazuma11121125&count_private=true)
 ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuma11121125&layout=compact)
-[![Image](https://github-readme-stats.vercel.app/api/wakatime?username=kazuma11121125)
+![Image](https://github-readme-stats.vercel.app/api/wakatime?username=kazuma11121125)
