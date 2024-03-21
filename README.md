@@ -13,6 +13,8 @@ DPI-BOT
 [S-Server Developers S-dev Pro](https://dev.shizen.lol/)  
   
 [むねすかい](https://munesky.net/)
+
+[HSS-Project](https://hss.aknet.tech/)
   
 ![Image](https://github-readme-stats.vercel.app/api?username=kazuma11121125&count_private=true)
 ![Image](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuma11121125&layout=compact)
