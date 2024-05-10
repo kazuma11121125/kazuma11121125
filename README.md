@@ -1,5 +1,5 @@
 ## kazuma1112
-![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeDS6bZVq0D7JfHJpqEZTYWyJmki8xrYeXadW-mKDF-Q&s)
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeDS6bZVq0D7JfHJpqEZTYWyJmki8xrYeXadW-mKDF-Q&s)  
 基本的にPythonとC/C++を中心的にしています。このアカウントは中学生から使用しているので昔ほどコードが汚いです。
 
 ## Discord Bot List  
