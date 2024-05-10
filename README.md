@@ -1,8 +1,10 @@
 ## kazuma1112
+![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeDS6bZVq0D7JfHJpqEZTYWyJmki8xrYeXadW-mKDF-Q&s)
 基本的にPythonとC/C++を中心的にしています。このアカウントは中学生から使用しているので昔ほどコードが汚いです。
 
 ## Discord Bot List  
-DPI-BOT  
+DPI-BOT
+HSS-BOT  
 各サーバー専属Bot(スケジュール管理システム 暗記メーカー etc....)
 
 ## 所属list
@@ -12,7 +14,7 @@ DPI-BOT
   
 [S-Server Developers S-dev Pro](https://dev.shizen.lol/)  
   
-[むねすかい](https://munesky.net/)
+むねすかい
 
 [HSS-Project](https://hss.aknet.tech/)
   
