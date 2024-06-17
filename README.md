@@ -3,10 +3,9 @@
 基本的にPythonとC/C++を中心的にしています。このアカウントは中学生から使用しているので昔ほどコードが汚いです。
 
 ## Discord Bot List  
-DPI-BOT
+DPI-BOT  
 HSS-BOT  
-各サーバー専属Bot(スケジュール管理システム 暗記メーカー etc....)
-
+各サーバー専属Bot  
 ## 所属list
 [DPI-Bot コマンド開発部](https://discord.com/api/oauth2/authorize?client_id=943752169029505114&permissions=2684480528&scope=applications.commands%20bot)  
   
