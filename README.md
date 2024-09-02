@@ -10,9 +10,7 @@ HSS-BOT
 [DPI-Bot コマンド開発部](https://discord.com/api/oauth2/authorize?client_id=943752169029505114&permissions=2684480528&scope=applications.commands%20bot)  
   
 大分高専 ロボット研究部 制御班  
-  
-[S-Server Developers S-dev Pro](https://dev.shizen.lol/)  
-  
+    
 むねすかい
 
 [HSS-Project](https://hss.aknet.tech/)
